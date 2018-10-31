@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "github_username": "leojpod",
+    "name": "Léo Jeusset",
+    "link_text": null,
+    "link_url": null,
+    "avatar_url": null,
+    "bio": "I work professionally with elm and it is a blast! It is such a relief to write code as it comes to one's mind without worrying about anything, knowing the compiler will have your back. Elm is the solution to your JavaScript fatigue!"
+  }
+]
